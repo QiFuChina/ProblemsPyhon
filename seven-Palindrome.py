@@ -14,7 +14,7 @@ def palindrome(list):
 
 if __name__=="__main__":
 # this command can decide where is the main part to begin script  
-# here is a reference form stackoverflow https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+# here is a reference form stackoverflow [this line](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)
     list=input("input elements:")
     # acquire elements from keyboard
     if palindrome(list):
