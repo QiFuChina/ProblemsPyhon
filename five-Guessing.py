@@ -3,11 +3,14 @@ import random
 i = random.randint(0,101)
 # set a random number as a secert number 
 
-number =input("Input a number:");
-
+number =input("Input a number:")
 # get a exact number from users
+list=list+number
+# create a list to store every numbers
+
 #print(i)
 #print(type(i))
+#identify i and number
 
 
 if number > str(i):
