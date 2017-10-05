@@ -1,5 +1,5 @@
 def palindrome(list):
-# define a method to compare elements where inside list
+# define a function to compare elements where inside list
     for i in range(0, len(list)):
         if list[i] == list[-i-1]:
             result = True
