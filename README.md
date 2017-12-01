@@ -7,7 +7,8 @@
 There are my solutions to the [problems](https://emerging-technologies.github.io/problems/python-fundamentals.html)available on the [GitHub](https://emerging-technologies.github.io/).  
 Each solution to each problem on the file.
 
-## Need python3, [Install tutorial](https://anaconda.org/anaconda/python) 
+## Need python3
+* [Install tutorial](https://anaconda.org/anaconda/python) 
 
 ## How to clone
 > 1.Get into [page](https://github.com/QiFuChina/ProblemsPython) and click Clone and Download,copy the address.   
