@@ -4,7 +4,7 @@
 * Author: Qi Fu
 * Lecturer: Dr [Ian McLoughlin](https://ianmcloughlin.github.io/)
 
-There are my solutions to the [problems](https://emerging-technologies.github.io/problems/python-fundamentals.html)available on the [GitHub](https://emerging-technologies.github.io/).  
+There are my solutions to the [problems](https://emerging-technologies.github.io/problems/python-fundamentals.html) available on the [GitHub](https://emerging-technologies.github.io/).  
 Each solution to each problem on the file.
 
 ## Need python3
@@ -17,4 +17,5 @@ Each solution to each problem on the file.
 
 ## How to run
 > 1.Go to the file folder and open cmd
+
 > 2.Type ``` $ python filename.py ``` to run
